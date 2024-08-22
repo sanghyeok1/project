@@ -1,0 +1,33 @@
+
+.membership{
+    width: 670px;
+    height: 960px;
+    margin: 0 auto;
+    border: 1px solid rgba(170,205,255,1);
+    padding: 60px 60px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 39px 0px rgba(0,104,255,0.25);
+}
+.membershipTitle{
+    color: blue;
+}
+
+.bottom-border {
+    border-width: 0 0 2px;
+    width: 100%;
+}
+.ddd{
+    text-align: center;
+}
+.ssdd{
+    width: 470px;
+    height: 75px;
+    border: 1px solid rgba(0,104,255,1);
+    border-radius: 10px;
+    background-color: transparent;
+    color: rgba(0,104,255,1);
+    font-size: 18px;
+}
+.ddssd{
+    text-align: center;
+}

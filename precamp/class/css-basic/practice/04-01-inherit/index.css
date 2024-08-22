@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    color: blue;
+    font-size: 38px;
+    border: 4px solid orange;
+    border-radius: 5px;
+}
+.inner-box {
+    color: red;
+}
